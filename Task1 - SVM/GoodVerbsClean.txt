@@ -1,0 +1,891 @@
+abbagliare 1 :34
+abbagliare 2 :47
+
+accogliere 1 :53
+accogliere 2 :51
+
+accompagnare 1 :53
+accompagnare 4 :67
+
+accorciare 5 :45
+accorciare 7 :50
+
+
+accorrere 1 :135
+accorrere 2 :45
+
+accusare 1 :59
+accusare 2 :34
+accusare 5 :56
+accusare 6 :249
+
+adattare 1 :34
+adattare 3 :36
+
+addentrare 1 :41
+addentrare 2 :53
+
+adeguare 1 :61
+adeguare 2 :59
+
+aderire 1 :44
+aderire 2 :70
+
+adoperare 1 :60
+adoperare 2 :96
+
+affaticare 1 :35
+affaticare 2 :34
+
+affermare 1 :87
+afferrare 1 :93
+
+affrontare 3 :66
+affrontare 4 :48
+
+aggirare 3 :41
+aggirare 4 :69
+aggirare 5 :50
+
+aggravare 1 :32
+aggravare 2 :84
+
+allungare 1 :31
+allungare 3 :74
+allungare 4 :53
+
+alzare 1 :65
+alzare 2 :35
+
+amare 1 :90
+amare 3 :57
+
+andare 1 :55
+andare 6 :39
+
+appartare 1 :115
+appartenere 3 :39
+
+applaudire 1 :74
+applaudire 2 :61
+
+appoggiare 1 :34
+appoggiare 4 :53
+
+arrabbiare 1 :132
+arrabbiare 2 :36
+
+arrendere 1 :34
+arrendere 2 :49
+
+arrestare 1 :1000
+arrestare 2 :208
+
+assalire 1 :46
+assalire 3 :45
+
+assicurare 2 :39
+assicurare 6 :134
+
+assistere 1 :61
+assistere 2 :47
+assistere 3 :31
+
+atterrare 1 :168
+atterrare 3 :50
+
+attirare 2 :37
+attirare 3 :86
+
+aumentare 1 :65
+aumentare 2 :44
+
+autorizzare 1 :72
+autorizzare 2 :52
+
+avvertire 1 :81
+avvertire 5 :60
+
+avvicinare 1 :35
+avvicinare 3 :94
+
+azzardare 1 :68
+azzardare 2 :40
+
+battere 1 :46
+battere 2 :38
+
+beccare 7 :48
+beccare 8 :42
+
+bere 1 :110
+bere 2 :49
+bere 3 :148
+
+bollire 2 :59
+bollire 3 :40
+
+brontolare 1 :50
+brontolare 2 :46
+
+cambiare 2 :40
+cambiare 3 :32
+
+cantare 1 :52
+cantare 3 :43
+
+celebrare 1 :57
+celebrare 2 :37
+
+cercare 1 :67
+cercare 2 :111
+
+cessare 1 :78
+cessare 2 :42
+
+chiamare 1 :43
+chiamare 2 :37
+
+chiedere 1 :35
+chiedere 2 :46
+
+colpire 4 :42
+colpire 5 :33
+
+coltivare 2 :56
+coltivare 3 :88
+
+comandare 1 :39
+comandare 4 :46
+
+combattere 3 :62
+combattere 5 :68
+
+cominciare 1 :34
+cominciare 2 :51
+
+commentare 1 :93
+commentare 2 :98
+
+commettere 1 :162
+commuovere 1 :63
+commuovere 2 :41
+
+competere 1 :48
+competere 2 :76
+
+completare 1 :68
+completare 2 :34
+
+comportare 1 :52
+comportare 2 :191
+
+comprendere 1 :54
+comprendere 2 :45
+
+concedere 1 :103
+concedere 2 :33
+
+concludere 1 :96
+concludere 3 :31
+concludere 7 :35
+concludere 8 :34
+concludere 9 :33
+
+concordare 1 :46
+concordare 3 :31
+
+condividere 1 :196
+condividere 2 :141
+condividere 3 :46
+
+confermare 1 :47
+
+conservare 1 :50
+conservare 2 :33
+
+considerare 1 :32
+considerare 2 :136
+considerare 3 :48
+
+contare 1 :81
+contare 3 :51
+
+continuare 2 :98
+continuare 3 :34
+
+convocare 1 :69
+convocare 2 :33
+convocare 3 :32
+
+cooperare 1 :48
+cooperare 2 :43
+
+corrispondere 1 :143
+corrispondere 2 :57
+
+costruire 1 :56
+costruire 4 :63
+
+credere 1 :161
+credere 2 :53
+
+cucinare 1 :61
+cucinare 2 :93
+
+danneggiare 1 :104
+danneggiare 2 :50
+
+dare 2 :31
+dare 3 :40
+
+decadere 1 :35
+decadere 2 :51
+
+decifrare 1 :112
+decifrare 2 :50
+
+decretare 1 :66
+decretare 2 :32
+
+definire 1 :80
+definire 3 :66
+
+determinare 1 :41
+determinare 3 :35
+
+difendere 1 :174
+difendere 2 :48
+
+dimettere 1 :158
+dimettere 2 :41
+dimezzare 2 :34
+
+dimostrare 1 :104
+dimostrare 2 :99
+
+dirottare 1 :37
+dirottare 2 :60
+
+discorrere 1 :63
+discorrere 2 :53
+
+discutere 1 :51
+discutere 4 :113
+
+disporre 1 :68
+disporre 2 :39
+
+distinguere 3 :31
+distinguere 4 :32
+
+
+divertire 1 :137
+divertire 2 :31
+
+
+domandare 1 :86
+domandare 2 :100
+
+educare 1 :68
+educare 2 :48
+
+eleggere 1 :73
+eleggere 2 :59
+
+esaltare 1 :60
+esaltare 2 :40
+
+escludere 1 :67
+escludere 3 :61
+
+esercitare 2 :72
+esercitare 3 :53
+
+esigere 1 :44
+
+esporre 1 :45
+esporre 2 :33
+
+evidenziare 1 :56
+evidenziare 2 :47
+
+festeggiare 1 :122
+festeggiare 2 :45
+
+finire 2 :53
+finire 14 :40
+
+fiorire 1 :44
+fiorire 3 :49
+
+fregare 4 :45
+fregare 5 :80
+
+funzionare 1 :38
+funzionare 4 :34
+funzionare 7 :35
+
+giudicare 1 :94
+giudicare 2 :87
+
+giungere 1 :40
+giungere 3 :35
+
+godere 3 :80
+godere 5 :33
+
+gridare 1 :34
+gridare 3 :147
+
+guadagnare 1 :67
+guardare 1 :116
+
+illudere 1 :31
+illudere 2 :113
+
+imbrogliare 1 :81
+imbrogliare 2 :60
+
+imparare 1 :135
+imparare 3 :99
+
+impiccare 1 :31
+impiccare 2 :35
+
+importare 1 :33
+importare 3 :61
+
+impressionare 1 :91
+imprigionare 1 :55
+
+incoraggiare 1 :53
+incoraggiare 2 :67
+
+indagare 1 :89
+indagare 2 :104
+
+infilare 1 :65
+infilare 3 :57
+
+iniziare 1 :102
+iniziare 3 :55
+
+insospettire 1 :60
+insospettire 2 :108
+
+interpretare 1 :34
+interpretare 2 :52
+
+interrompere 1 :105
+interrompere 2 :36
+
+intervenire 1 :68
+intervenire 2 :52
+
+introdurre 2 :32
+introdurre 3 :43
+
+invidiare 1 :48
+invidiare 3 :42
+
+lamentare 1 :35
+lamentare 4 :48
+
+limitare 1 :68
+limitare 2 :50
+
+litigare 1 :108
+litigare 2 :72
+
+lodare 1 :37
+lodare 2 :48
+
+macinare 1 :37
+macinare 2 :33
+
+mandare 1 :55
+mandare 2 :47
+
+mangiare 1 :100
+mangiare 3 :41
+
+manifestare 1 :53
+manifestare 2 :52
+
+meditare 3 :40
+meditare 4 :36
+
+meravigliare 1 :141
+meravigliare 2 :45
+
+mostrare 1 :133
+mostrare 2 :35
+
+nascere 1 :100
+nascere 2 :37
+nascere 3 :47
+
+negare 1 :44
+negare 2 :32
+
+notare 1 :84
+notare 3 :42
+
+nutrire 1 :45
+nutrire 6 :34
+
+oltrepassare 1 :40
+oltrepassare 3 :37
+
+
+originare 1 :42
+originare 2 :33
+
+osservare 1 :91
+osservare 3 :39
+
+partire 5 :48
+partire 6 :54
+
+peggiorare 1 :54
+peggiorare 2 :69
+
+pensare 4 :59
+pensare 6 :47
+
+perdonare 1 :114
+perdonare 2 :85
+
+pesare 2 :51
+pesare 5 :60
+
+porgere 1 :36
+porgere 6 :61
+
+possedere 1 :67
+possedere 2 :87
+
+precipitare 2 :60
+precipitare 3 :33
+precisare 1 :151
+precisare 2 :49
+
+pregare 2 :84
+pregare 3 :55
+pregare 4 :35
+
+prendere 1 :61
+prendere 4 :37
+prendere 5 :50
+prendere 7 :31
+
+presentare 1 :34
+presentare 2 :164
+
+prestare 2 :41
+prestare 3 :37
+prestare 6 :33
+
+pretendere 1 :96
+pretendere 2 :142
+
+prevedere 1 :148
+prevedere 2 :33
+
+procedere 1 :184
+procedere 4 :54
+
+progettare 1 :32
+progettare 2 :38
+
+prolungare 1 :70
+prolungare 3 :33
+
+promuovere 1 :130
+promuovere 2 :41
+
+provare 1 :1000
+provare 2 :1000
+
+provare 3 :1000
+provare 4 :1000
+provare 6 :1000
+
+provenire 1 :32
+provocare 1 :151
+
+puzzare 1 :59
+puzzare 2 :32
+
+raccomandare 3 :74
+raccomandare 6 :43
+
+raccontare 1 :112
+raccontare 3 :63
+
+raffreddare 1 :38
+raffreddare 3 :42
+raffreddare 4 :97
+
+raggiungere 1 :39
+raggiungere 4 :69
+raggiungere 6 :1000
+
+recare 1 :97
+recare 2 :42
+
+regalare 1 :46
+regalare 2 :34
+
+reggere 3 :40
+reggere 4 :56
+
+respirare 1 :143
+respirare 2 :89
+
+restare 1 :121
+restare 3 :31
+
+richiedere 1 :32
+richiedere 2 :69
+
+ricominciare 1 :94
+ricominciare 2 :105
+ricominciare 3 :33
+
+riconoscere 1 :78
+riconoscere 3 :114
+
+ricordare 1 :89
+ricordare 3 :109
+
+ricorrere 1 :32
+ricorrere 4 :106
+
+rientrare 1 :92
+rientrare 2 :48
+
+
+rifare 1 :59
+rifare 3 :127
+
+rifiutare 1 :39
+rifiutare 2 :41
+
+riflettere 1 :32
+riflettere 2 :56
+riflettere 7 :31
+
+rifornire 1 :59
+rifornire 2 :71
+
+riguardare 1 :104
+riguardare 2 :83
+
+rilanciare 1 :49
+rilanciare 2 :67
+
+rimandare 2 :45
+rimandare 3 :35
+
+rimanere 1 :152
+rimanere 3 :65
+
+rimproverare 1 :82
+rimproverare 2 :39
+
+rimuovere 1 :37
+rimuovere 2 :38
+
+rinfacciare 1 :38
+rinfacciare 2 :31
+
+ripensare 1 :49
+ripensare 4 :39
+
+ripetere 2 :32
+ripetere 3 :101
+
+riporre 2 :35
+riporre 4 :52
+
+riprendere 1 :32
+riprendere 3 :52
+riprendere 5 :40
+
+riprovare 2 :56
+riprovare 3 :55
+
+riscuotere 1 :46
+riscuotere 2 :107
+
+riservare 1 :38
+riservare 2 :92
+
+rispondere 1 :79
+rispondere 2 :46
+rispondere 3 :41
+rispondere 8 :34
+
+risvegliare 1 :36
+risvegliare 4 :56
+
+ritenere 1 :96
+ritenere 2 :85
+
+ritirare 1 :50
+ritirare 3 :39
+ritirare 5 :38
+
+riunire 1 :109
+riunire 2 :69
+
+rivelare 1 :120
+rivelare 2 :106
+
+rivestire 1 :62
+rivolgere 1 :42
+
+rompere 2 :39
+rompere 6 :46
+
+saltare 2 :34
+saltare 3 :47
+
+salvare 1 :123
+salvare 2 :32
+
+sapere 1 :83
+sapere 4 :33
+sapere 6 :32
+
+sbarrare 4 :38
+sbarrare 6 :44
+
+sbattere 1 :1000
+sbattere 2 :1000
+sbattere 3 :1000
+sbattere 4 :1000
+sbattere 5 :1000
+sbattere 6 :1000
+sbattere 7 :1000
+sbattere 8 :1000
+sbattere 9 :1000
+sbattere 10 :1000
+sbattere 11 :1000
+sbattere 12 :1000
+sbattere 13 :1000
+sbattere 14 :1000
+sbattere 15 :1000
+sbattere 16 :1000
+
+sbottonare 1 :46
+sbottonare 2 :32
+sbottonare 4 :33
+
+scappare 1 :188
+scappare 2 :47
+
+scattare 1 :42
+scattare 2 :75
+
+scherzare 1 :34
+scherzare 3 :36
+
+scocciare 1 :145
+scocciare 2 :40
+
+scommettere 1 :34
+scommettere 2 :53
+scommettere 4 :46
+
+scongiurare 1 :33
+scongiurare 2 :151
+
+scoppiare 3 :83
+scoppiare 4 :34
+
+scoraggiare 3 :38
+scoraggiare 4 :48
+
+scorrere 1 :101
+scorrere 2 :252
+
+scusare 1 :35
+scusare 2 :38
+
+sedere 1 :49
+sedere 2 :48
+
+sgnalare 1 :33
+segnare 1 :62
+
+selezionare 1 :38
+selezionare 2 :39
+
+sembrare 1 :36
+sembrare 3 :115
+sembrare 4 :74
+
+sentire 2 :35
+sentire 9 :31
+
+servire 1 :1000
+servire 2 :1000
+servire 3 :1000
+servire 4 :1000
+servire 5 :1000
+servire 6 :1000
+servire 7 :1000
+servire 8 :1000
+
+sfogare 1 :62
+sfogare 2 :89
+
+sistemare 1 :51
+sistemare 2 :35
+
+sloggiare 1 :41
+sloggiare 2 :31
+
+smascherare 1 :46
+smascherare 2 :78
+
+smentire 2 :63
+smettere 1 :176
+
+sollecitare 1 :65
+sollecitare 2 :67
+
+sollevare 1 :45
+sollevare 2 :76
+
+sopraggiungere 1 :41
+sopraggiungere 2 :38
+
+sorgere 2 :55
+sorgere 4 :71
+
+sostenere 1 :52
+sostenere 2 :54
+
+sottomettere 1 :32
+sottomettere 2 :44
+
+spartire 1 :33
+spartire 3 :64
+
+spegnere 1 :99
+spegnere 2 :80
+
+sperimentare 1 :61
+sperimentare 2 :37
+
+spiegare 1 :118
+spiegare 2 :79
+
+spogliare 2 :52
+spogliare 5 :34
+
+sposare 1 :47
+sposare 2 :70
+sposare 3 :33
+
+spostare 2 :39
+spostare 7 :37
+
+staccare 1 :101
+staccare 2 :55
+
+strappare 1 :96
+strappare 3 :53
+stringere 1 :32
+stringere 4 :31
+
+strofinare 1 :53
+strofinare 3 :36
+
+studiare 1 :55
+studiare 5 :40
+
+suonare 2 :67
+suonare 10 :37
+
+superare 1 :63
+superare 2 :33
+
+svegliare 1 :148
+svegliare 2 :56
+
+sventolare 1 :38
+sventolare 2 :61
+
+svolgere 1 :86
+svolgere 2 :54
+
+tacere 1 :31
+tacere 2 :36
+
+temere 1 :103
+temere 2 :40
+
+tendere 5 :32
+tendere 7 :39
+
+tenere 3 :33
+tenere 6 :58
+tenere 8 :34
+
+terminare 1 :102
+terminare 2 :68
+
+tornare 1 :65
+tornare 2 :31
+
+tradurre 1 :111
+tradurre 2 :62
+
+trascinare 1 :162
+trascinare 2 :34
+
+trascorrere 1 :131
+trascorrere 2 :63
+
+trasformare 2 :60
+trasformare 4 :56
+
+trasmettere 2 :124
+trasmettere 3 :33
+
+urtare 1 :67
+urtare 2 :56
+
+vagare 1 :58
+vagare 2 :45
+
+vantare 1 :118
+vantare 3 :53
+
+vegliare 1 :59
+vegliare 2 :35
+
+venire 2 :44
+venire 5 :190
+
+verificare 1 :49
+verificare 3 :62
+
+versare 1 :49
+versare 6 :100
+
+viaggiare 1 :130
+
+vincere 1 :129
+vincere 2 :34
+
+visitare 1 :141
+visitare 2 :44
+
+volare 1 :50
+volere 1 :62

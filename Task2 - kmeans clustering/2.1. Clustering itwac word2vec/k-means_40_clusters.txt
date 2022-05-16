@@ -1,0 +1,123 @@
+cluster n° 0
+scoprire, ritrovare, nascondere, scomparire, animare, scorrere, sopravvivere, accendere, spegnere, mutare, svelare, respirare, proiettare, illuminare, immergere, avvolgere, intrecciare, racchiudere, evocare, fondere, affondare, scavare, penetrare, riscoprire, sconvolgere, sparire, brillare, celare, intravedere, risvegliare, imprimere, risorgere, oscurare, svanire, ricreare, trasparire, rinascere, tramandare, insinuare, 
+
+cluster n° 1
+colpire, muovere, lanciare, spingere, abbandonare, combattere, bloccare, distruggere, attaccare, rompere, saltare, allontanare, gettare, sollevare, cedere, appoggiare, resistere, minacciare, abbassare, scatenare, reagire, trascinare, abbattere, esplodere, staccare, scoppiare, invadere, comandare, strappare, piegare, inseguire, spezzare, precipitare, scivolare, travolgere, scontrare, frenare, schiacciare, spaccare, armare, devastare, rovesciare, intercettare, deviare, forzare, soffocare, spazzare, scagliare, ribaltare, rincorrere, arrendere, cavalcare, incalzare, infrangere, sfondare, spiare, 
+
+cluster n° 2
+partecipare, votare, iscrivere, frequentare, nominare, sposare, eleggere, celebrare, convocare, candidare, delegare, presiedere, laureare, indire, proclamare, erede, dimettere, licenziare, Lettere, intervistare, alleare, diplomare, 
+
+cluster n° 3
+dare, trovare, sembrare, diventare, trattare, rendere, conoscere, riguardare, considerare, chiamare, usare, esistere, intendere, dimostrare, vistare, mancare, significare, interessare, accadere, occorrere, risolvere, familiare, contare, interpretare, possedere, riflettere, dipendere, distinguere, correggere, importare, elementare, ignorare, privare, figurare, scambiare, concepire, confondere, piare, educare, esaltare, trascurare, combinare, sottovalutare, paragonare, intuire, ovviare, aspirare, rispecchiare, giovare, sospettare, tralasciare, famigliare, sconoscere, mascherare, presumere, reputare, manipolare, addire, distorcere, errare, stravolgere, appropriare, solere, assecondare, basilare, alludere, 
+
+cluster n° 4
+vivere, nascere, costruire, divenire, appartenere, fondare, trasferire, estendere, sorgere, collocare, abitare, circondare, governare, situare, separare, ricoprire, dominare, ricadere, isolare, convivere, discendere, amministrare, regnare, ubicare, innalzare, consacrare, edificare, ergere, ereditare, insediare, delimitare, radicare, soggiornare, emigrare, fiorire, rifugiare, erigere, confinare, battezzare, quadrare, alloggiare, affittare, 
+
+cluster n° 5
+vendere, mangiare, comprare, tagliare, bere, buttare, consumare, bruciare, riempire, fumare, rovinare, piovere, rodere, pescare, sigaretta, spargere, riciclare, piantare, riempiere, inquinare, cenere, confezionare, seminare, fruttare, scartare, divorare, colorare, colare, avvelenare, cubare, fabbricare, sporcare, 
+
+cluster n° 6
+raccontare, narrare, alternare, ripercorrere, appassionare, affascinare, ambientare, susseguire, rivivere, entusiasmare, cimentare, avvincere, 
+
+cluster n° 7
+morire, cadere, sedere, dormire, piangere, parete, ferire, dipingere, baciare, crollare, stendere, raffigurare, altare, guarire, ricoverare, posare, appendere, partorire, addormentare, assassinare, spogliare, giacere, suicidare, orlare, 
+
+cluster n° 8
+modificare, integrare, soddisfare, orientare, adattare, adeguare, ampliare, agevolare, differenziato, relazionare, semplificare, privilegiare, strutturare, differenziare, peculiare, ottimizzare, diversificare, perfezionare, evolvere, personalizzare, obiettivare, armonizzare, 
+
+cluster n° 9
+coltivare, nutrire, somministrare, contaminare, allevare, cereale, ammalare, vaccinare, diagnosticare, 
+
+cluster n° 10
+raccogliere, ospitare, conservare, recuperare, restituire, donare, ricostruire, inaugurare, depositare, allestire, sistemare, custodire, archiviare, sequestrare, prelevare, adibire, ristrutturare, restaurare, ultimare, attrezzare, svuotare, smontare, Militare, ripulire, demolire, ritagliare, 
+
+cluster n° 11
+svolgere, lavorare, offrire, dedicare, scegliere, comprendere, organizzare, affrontare, coinvolgere, occupare, operare, sviluppare, gestire, formare, studiare, guidare, curare, dirigere, unire, dividere, collaborare, confrontare, riunire, concentrare, approfondire, coordinare, sperimentare, affiancare, maturare, allargare, vantare, ricercare, suddividere, ideare, avvalere, esplorare, incentrare, interagire, inquadrare, dialogare, focalizzare, spaziare, ambire, accomunare, confluire, dibattere, specializzare, intrattenere, raggruppare, annoverare, aggregare, vertere, convergere, 
+
+cluster n° 12
+parlamentare, consiliare, deputare, 
+
+cluster n° 13
+utilizzare, permettere, consentire, fornire, effettuare, diretto, basare, funzionare, collegare, eseguire, attivare, dotare, associare, includere, consistere, cellulare, impiegare, supportare, necessitare, denominare, programmare, variare, connettere, impostare, configurare, correlare, indiretto, abilitare, testare, abbinare, apparecchiatura, modulare, implementare, molecolare, codificare, satellitare, hardware, fungere, incorporare, supplementare, differire, localizzare, simulare, validare, differenziale, 
+
+cluster n° 14
+avere, fare, volere, andare, stare, sapere, vedere, mettere, pensare, prendere, riuscire, cercare, capire, continuare, tornare, decidere, cambiare, perdere, uscire, finire, servire, bastare, cominciare, provare, bisognare, sperare, aiutare, succedere, dimenticare, costringere, preparare, mandare, preferire, toccare, convincere, salvare, tentare, togliere, ripetere, immaginare, sbagliare, consigliare, desiderare, ritornare, capitare, preoccupare, accorgere, smettere, cancellare, promettere, rimettere, rivedere, convenire, lottare, approfittare, ragionare, rifare, accontentare, ricominciare, premere, badare, fallire, ripensare, incominciare, sprecare, mollare, complicare, sacrificare, esitare, faticare, scommettere, rassegnare, sforzare, apprestare, riprovare, illudere, rimediare, orare, meditare, ridimensionare, azzardare, 
+
+cluster n° 15
+presentare, realizzare, rappresentare, costituire, definire, pubblicare, contenere, assumere, indicare, inserire, individuare, adottare, sostituire, attribuire, assegnare, illustrare, completare, acquisire, ispirare, elaborare, esaminare, dettare, conferire, intitolare, formulare, specificare, redigere, elencare, concorrere, apportare, rimandare, delineare, classificare, rivestire, scaturire, menzionare, corredare, recepire, sintetizzare, editare, bandire, stilare, pubblicizzare, declinare, divulgare, commissionare, esplicitare, unificare, connotare, 
+
+cluster n° 16
+giocare, correre, girare, imparare, insegnare, suonare, cantare, ridere, regalare, divertire, sognare, inventare, volare, abituare, indossare, recitare, vestire, esibire, ballare, infilare, allenare, impazzire, assomigliare, improvvisare, imitare, cavare, invecchiare, somigliare, nuotare, parare, collare, indovinare, truccare, cascare, chiacchierare, 
+
+cluster n° 17
+creare, crescere, derivare, trasformare, provenire, alimentare, diffondere, generare, distribuire, sfruttare, arricchire, trasportare, ricavare, elevare, convertire, migrare, assorbire, accumulare, moltiplicare, colmare, attingere, veicolare, filtrare, assimilare, originare, disperdere, riversare, espandere, sommergere, amplificare, 
+
+cluster n° 18
+vincere, battere, conquistare, premiare, festeggiare, sconfiggere, schierare, sfidare, approdare, disputare, piazzare, aggiudicare, esimere, sbarcare, esordire, debuttare, contendere, trionfare, 
+
+cluster n° 19
+ottenere, riconoscere, accettare, valere, limitare, comportare, compiere, ammettere, rispettare, escludere, assistere, esercitare, riservare, prestare, negare, godere, ricorrere, rifiutare, giustificare, rinunciare, spettare, concedere, praticare, pretendere, vietare, obbligare, prescindere, implicare, cessare, motivare, sancire, invocare, competere, rivendicare, contemplare, abolire, accordare, legittimare, esigere, decretare, optare, proibire, compire, subentrare, astenere, obbedire, reclamare, predicare, patire, penare, precludere, 
+
+cluster n° 20
+evitare, rischiare, subire, provocare, impedire, manifestare, eliminare, causare, proteggere, contrastare, rimuovere, prevenire, degradare, danneggiare, procurare, disturbare, compromettere, penalizzare, permanere, peggiorare, ostacolare, ripristinare, fronteggiare, tollerare, aggravare, innescare, riparare, alterare, preservare, ritardare, accentuare, insorgere, attenuare, indebolire, scongiurare, minare, scoraggiare, affliggere, persistere, sanare, arrecare, pregiudicare, minimizzare, 
+
+cluster n° 21
+dire, credere, amare, ringraziare, meritare, postare, apprezzare, scusare, soffrire, pregare, augurare, lamentare, dispiacere, innamorare, sopportare, stupire, adorare, tradire, perdonare, scherzare, fidare, peccare, confessare, complimentare, giurare, deludere, rileggere, dubitare, gradire, esagerare, emozionare, tifare, onorare, spiacere, stancare, meravigliare, commuovere, scordare, benedire, invidiare, annoiare, contentare, lodare, degnare, rimpiangere, beare, applaudire, pentire, 
+
+cluster n° 22
+liberare, fuggire, sciogliere, catturare, trattenere, espellere, rapire, rinchiudere, congelare, imprigionare, 
+
+cluster n° 23
+sostenere, garantire, promuovere, mantenere, impegnare, assicurare, avviare, contribuire, finalizzare, attuare, rinnovare, aderire, tutelare, valorizzare, rafforzare, mirare, volgere, intraprendere, perseguire, sollecitare, auspicare, consolidare, rilanciare, incentivare, incoraggiare, qualificare, salvaguardare, instaurare, varare, adoperare, coniugare, siglare, mobilitare, concretizzare, sensibilizzare, agroalimentare, pianificare, ridare, conciliare, direttrice, riformare, decentrare, intensificare, ristabilire, presidiare, improntare, riaffermare, 
+
+cluster n° 24
+richiedere, ricevere, rivolgere, interessato, invitare, comunicare, affidare, procedere, trasmettere, recare, informare, provvedere, rilasciare, consegnare, ordinare, emettere, ritirare, pervenire, indirizzare, incaricare, raccomandare, designare, certificare, inoltrare, avvisare, notificare, omettere, munire, locare, vigilare, impartire, interpellare, istruire, adempiere, trascrivere, 
+
+cluster n° 25
+uccidere, difendere, accusare, sparare, rubare, scappare, odiare, fregare, tacere, offendere, osare, cacciare, protestare, ammazzare, fingere, vergognare, ingannare, beccare, picchiare, litigare, aggredire, insultare, arrabbiare, volgare, mentire, incazzare, spacciare, abusare, ribellare, massacrare, umiliare, sfogare, perseguitare, menare, rimproverare, scandalizzare, calpestare, disprezzare, sputare, indignare, 
+
+cluster n° 26
+sentire, lasciare, rimanere, entrare, guardare, restare, rispondere, aspettare, fermare, ascoltare, accogliere, attendere, avvicinare, rimare, salutare, temere, avvertire, sfuggire, domandare, suscitare, abbracciare, sorprendere, interrogare, attirare, rassicurare, spaventare, confidare, consolare, accostare, porgere, destare, turbare, incuriosire, impressionare, esortare, compiacere, 
+
+cluster n° 27
+parlare, scrivere, chiedere, leggere, ricordare, parere, spiegare, ritenere, aggiungere, esprimere, affermare, dichiarare, concludere, sottolineare, confermare, intervenire, condividere, riferire, annunciare, citare, firmare, commentare, discutere, precisare, ribadire, richiamare, suggerire, chiarire, concordare, apprendere, anticipare, pronunciare, insistere, criticare, Cesare, rinviare, accennare, riassumere, replicare, soffermare, smentire, premettere, prospettare, secondare, bocciare, preannunciare, rammentare, argomentare, asserire, moderare, contraddire, riscrivere, riconfermare, rimarcare, 
+
+cluster n° 28
+prevedere, stabilire, approvare, applicare, autorizzare, istituire, conseguire, disciplinare, concernere, sottoscrivere, stipulare, emanare, allegare, preliminare, scadere, decorrere, revocare, attenere, prescrivere, vigere, sussistere, deliberare, vincolare, sopprimere, subordinare, abrogare, prorogare, comprovare, ostare, assoggettare, ratificare, appaltare, espletare, demandare, equiparare, ricomprendere, 
+
+cluster n° 29
+avvenire, risultare, riportare, apparire, mostrare, verificare, registrare, osservare, notare, emergere, segnalare, descrivere, rivelare, evidenziare, rilevare, analizzare, risalire, identificare, comparire, accertare, testimoniare, indagare, riscontrare, attestare, esemplare, documentare, ipotizzare, constatare, fotografare, rinvenire, datare, evincere, rintracciare, annotare, intercorrere, 
+
+cluster n° 30
+solare, progettare, disegnare, tracciare, lineare, ruotare, idrogenare, Venere, modellare, congiungere, stellare, 
+
+cluster n° 31
+tirare, alzare, sorridere, gridare, stringere, svegliare, addossare, urlare, udire, levare, voltare, sbattere, scuotere, agitare, tremare, afferrare, esclamare, soffiare, accarezzare, spalancare, calmare, bussare, 
+
+cluster n° 32
+mescolare, lavare, pulire, rilassare, cuocere, riposare, gustare, cucinare, scaldare, assaggiare, bagnare, arredare, condire, riscaldare, decorare, asciugare, raffreddare, tritare, assaporare, 
+
+cluster n° 33
+aumentare, determinare, valutare, favorire, migliorare, controllare, agire, tendere, diminuire, misurare, stimolare, influenzare, facilitare, incrementare, condizionare, accrescere, monitorare, potenziare, accelerare, rallentare, muscolare, influire, capacitare, cardiovascolare, capillare, rinforzare, mediare, stabilizzare, interferire, polmonare, 
+
+cluster n° 34
+inviare, aggiornare, cliccare, contattare, selezionare, consultare, compilare, visualizzare, spedire, stampare, telefonare, prenotare, navigare, copiare, numerare, incollare, sfogliare, schedare, digitare, visionare, memorizzare, catalogare, ingrandire, 
+
+cluster n° 35
+denunciare, giudicare, condannare, commettere, arrestare, respingere, annullare, contestare, impugnare, violare, detenere, punire, assolvere, domiciliare, avversare, censurare, scontare, cautelare, appellare, infliggere, imputare, sanzionare, convalidare, rigettare, processare, incorrere, ravvisare, delinquere, estinguere, 
+
+cluster n° 36
+raggiungere, incontrare, scendere, salire, visitare, attraversare, spostare, percorrere, trascorrere, viaggiare, camminare, ammirare, incrociare, affacciare, aggirare, parcheggiare, passeggiare, sfilare, distare, scorgere, imboccare, transitare, svoltare, radunare, pendolare, imbarcare, snodare, imbattere, affollare, oltrepassare, 
+
+cluster n° 37
+portare, arrivare, tenere, passare, seguire, aprire, partire, iniziare, chiudere, superare, giungere, accompagnare, proseguire, legare, caratterizzare, riprendere, fissare, rientrare, puntare, segnare, avanzare, durare, terminare, incidere, sospendere, interrompere, scattare, precedere, reggere, calare, prevalere, centrare, coincidere, pesare, esaurire, allungare, spuntare, riaprire, sfiorare, spiccare, contraddistinguere, risentire, poggiare, scandire, prolungare, ancorare, allineare, sfociare, oscillare, invertire, marcare, profilare, pendere, scalare, sorreggere, culminare, contrassegnare, saldare, decollare, 
+
+cluster n° 38
+pagare, destinare, investire, coprire, costare, corrispondere, spendere, finanziare, guadagnare, versare, percepire, onere, calcolare, risparmiare, erogare, stimare, ammontare, ripartire, usufruire, immobiliare, sommare, beneficiare, equivalere, stanziare, riscuotere, compensare, incassare, liquidare, raddoppiare, gravare, accreditare, fruire, quotare, retribuire, rapportare, eccedere, rimborsare, quantificare, accantonare, 
+
+cluster n° 39
+acquistare, accedere, scaricare, installare, montare, caricare, posizionare, immettere, reperire, esportare, trainare, commercializzare, sbloccare, 
+
+cluster n° 40
+
+
