@@ -1,6 +1,7 @@
 This repository contains codes and data for the clustering I performed on my MA thesis project.
 
 The folder **Task1 - SVM** contains scripts and codes of the classifier for word sense disambiguation.
+
 The folder **Task2 - kmeans clustering** contains scripts and codes of the clustering for verb classes induction.
 
 The Task2 folder is further divided into three subfolders:
